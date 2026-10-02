@@ -29,3 +29,7 @@ Rather than relying on bulky external Python bridges, Dub Assistant embeds a lig
 ## Instructions
 
 See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for installation and performance instructions.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](./LICENSE) file for details.
